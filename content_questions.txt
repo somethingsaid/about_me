@@ -1,0 +1,14 @@
+"About Me" content questions:
+=============================
+1. Describe yourself in two to three sentences.
+    A soon-to-be 30-year-old who's small in stature, but big in noise (sometimes). I hope to become a full stack developer in 2 years.  My default facial expression looks sad/angry, but I'm really not, I promise.
+2. What's important to you?
+    God, family, also eating.
+3. Where are you from?
+    A town just slightly north of Toronto, Ontario.
+4. What are your favorite hobbies?
+    Soccer, riding my motorcycle, playing guitar terribly, and reading novels. 
+5. What's your dream job?
+    To be able to create something beautiful and meaningful.
+6. What music have you been listening to lately?
+    Can't get enough of James Bay at the moment.
