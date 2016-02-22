@@ -118,4 +118,7 @@ section > h1 {
     .masthead-heading {
         font-size: 3em;
     }
+    .masthead {
+        padding: 3em 0;
+    }
 }
