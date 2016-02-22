@@ -121,4 +121,7 @@ section > h1 {
     .masthead {
         padding: 3em 0;
     }
+    .content-footer {
+        font-size: 50%;
+    }
 }
